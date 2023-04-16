@@ -1,21 +1,21 @@
 {
-  "name": "rs-clone-backend",
+  "name": "rstype-backend",
   "version": "1.0.0",
-  "description": "Backend for rs-clone app",
+  "description": "Backend for RStype app",
   "main": "index.ts",
   "scripts": {
     "start": "nodemon index.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grom0330/rs-clone-backend.git"
+    "url": "git+https://github.com/iSvitka/RStype-backend.git"
   },
-  "author": "",
+  "author": "https://github.com/grom0330",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grom0330/rs-clone-backend/issues"
+    "url": "https://github.com/iSvitka/RStype-backend/issues"
   },
-  "homepage": "https://github.com/grom0330/rs-clone-backend#readme",
+  "homepage": "https://github.com/iSvitka/RStype-backend/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",

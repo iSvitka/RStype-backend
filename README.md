@@ -1,1 +1,1 @@
-# rs-clone-backend
+# [RStype](https://isvitka.github.io/RStype/) backend
